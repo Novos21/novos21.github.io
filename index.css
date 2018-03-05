@@ -1,7 +1,9 @@
 .limited {
-    color:red;
-    max-width: 600px;
+    color:blue;
+    text-align: center;
     margin: auto;
   }
 
-  
+body {
+    background-color: lightblue;
+}
